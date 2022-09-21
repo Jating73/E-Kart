@@ -9,6 +9,7 @@ node_modules/
 
 # production
 /build
+frontend/build/
 
 # misc
 .DS_Store
@@ -21,3 +22,13 @@ node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Project Reports, Demo Video and PPT
+2018PGCACA09.pdf
+2018PGCACA09.pptx
+Dockerfile
+E-Comm Shop Live .mp4
+Project Report Final.pdf
+~$2doc.docx
+~WRL2653.tmp
+miscellanious/
